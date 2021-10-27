@@ -69,4 +69,4 @@ This section has been moved here: [https://facebook.github.io/create-react-app/d
 
 
 
-by Paras Pandey
+by- Paras Pandey
